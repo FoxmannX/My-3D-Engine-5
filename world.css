@@ -1,0 +1,11 @@
+#content{
+    text-align: center;
+    color:white;
+}
+canvas{
+    border:3px solid blue;
+    background-color:black; 
+}
+body{
+    background-color: blueviolet;
+}
